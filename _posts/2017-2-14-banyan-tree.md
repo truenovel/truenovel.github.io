@@ -5,18 +5,9 @@ description: BY RABINARAYAN BISWAL
 image: assets/images/pic01.jpg
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+ପାହାନ୍ତା କୁହୁଡି, ହେମାଳ ପବନ, ଅଙ୍କା ବଙ୍କା ସରୁ ମାଟି ରାସ୍ତା ଉପରେ ଠାଏ ଠାଏ ଅନା ବାନା ଘାସ ର ଲହଡି |
+ବେଶ୍ ଜୋର ଜୋର ପାଦ ପକେଇ ବାପା ଚଲିଥାନ୍ତି | ମୁଁ ଚାଲିଥାଏ ବାପାଙ୍କ ପଛରେ, ଅଳ୍ପ ବ୍ୟବଧାନ ରେ |
+ରାସ୍ତା କଡ ର ଗହ ଗହ ଧାନ କେଣ୍ଡା ପରି ବାପା କହି ଚାଲିଥାନ୍ତି କେତେ କଥା - ଵିଲଙ୍କା ରାମାୟଣ ରେ ବଳି ଓ ସୁଗ୍ରୀବ ଙ୍କ ଯୁଦ୍ଧ, ଓଡିଶୀ ନୃତ୍ୟ ରେ ମଙ୍ଗଳାଚରଣ ଠୁ ଆରମ୍ଭ କରି ଅଶୋକ ଙ୍କ କାଳୀଂଗ ଆକ୍ରମଣ କଥା |
+ମୁଁ ଶୁଣୁଥାଏ, ମଝିରେ ମଝିରେ ତାଳ ଦେଇ ହୁଁ ମାରୁଥାଏ | ଯଦିଓ କିଛି କିଛି କଥା ମୋତେ ଅମୋଦିତ କରୁଥାଏ, ଲକ୍ଷ ମୋର ଥାଏ ସାଧବ ବୋହୁ ଉପରେ | 
+ଟୁକୁ ଟୁକୁ ହେଇ ସାଧବ ବୋହୁ ଯେତେବେଳ ମୋ ସାମ୍ନା ରେ ଚାଲିଯାଏ, ଅପା ର ଆକଟ ଓ ବାପାଙ୍କ ନାଲି ଆଖି ମୋ ଖିଆଲୀ ମନ କୁ ବାରମ୍ବାର ସଜାଡି ଦଉଥାଏ | 
+ଏମିତି ହେଲା ପୁରା ଶରତ ଋତୁ ର ଛୁଟି ଦିନ ର ନିତ୍ୟକର୍ମ |
