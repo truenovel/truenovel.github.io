@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'True stories from a beating heart'
+landing-title: 'True Novel'
 description: null
 image: null
 author: null
