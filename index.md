@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'True Novel'
+landing-title: 'Stories'
 description: null
 image: null
 author: null
