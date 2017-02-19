@@ -4,7 +4,7 @@ subtitle:
 email: youremailaddress@gmail.com
 description: from a beating heart.
 baseurl: "/stories" # the subpath of your site, e.g. /blog
-url: "https://truenovel.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
