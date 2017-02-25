@@ -1,3 +1,8 @@
+@import 'libs/vars';
+@import 'libs/functions';
+@import 'libs/mixins';
+@import 'libs/skel';
+
 /*
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
@@ -7,7 +12,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #ffffff;
+		color: _palette(fg-bold);
 	}
 
 /* Button */
@@ -18,15 +23,11 @@
 	button,
 	.button {
 		position: relative;
-	}
 
-		input[type="submit"]:after,
-		input[type="reset"]:after,
-		input[type="button"]:after,
-		button:after,
-		.button:after {
+		&:after {
 			display: none;
 		}
+	}
 
 /* Features */
 
@@ -48,7 +49,11 @@
 
 /* Split */
 
-	.split.style1 > :first-child {
-		padding-right: 2em;
-		width: 70%;
+	.split {
+		&.style1 {
+			> :first-child {
+				padding-right: 2em;
+				width: 70%;
+			}
+		}
 	}
